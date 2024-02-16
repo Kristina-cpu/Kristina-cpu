@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/>
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
