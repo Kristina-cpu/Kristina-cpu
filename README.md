@@ -14,3 +14,8 @@
 - :mailbox: Как связаться со мной: ![Telegram Badge](https://t.me/f1llzzz) ![Gmail Badge](mailto:alexeyf08@gmail.com) 
  
 ---
+### Skills
+
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+</p>
